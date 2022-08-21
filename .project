@@ -21,7 +21,8 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>com.google.appengine.eclipse.core.gaeProjectChangeNotifier</name>
+			<name>com.google.appengine.eclipse.core.gaeProjectChangeNotifier
+			</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
@@ -36,7 +37,8 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>com.google.cloud.tools.eclipse.appengine.standard.java8.appengineWeb</name>
+			<name>com.google.cloud.tools.eclipse.appengine.standard.java8.appengineWeb
+			</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
